@@ -1,5 +1,5 @@
 def square_array(array)
-#  squared = []
+  squared = []
   array.map { |num| num**2 }
-#  squared
+  squared
 end
